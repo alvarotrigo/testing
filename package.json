@@ -1,6 +1,6 @@
 {
   "name": "testing",
-  "version": "0.0.0-development",
+  "version": "0.0.0-semantically-released",
   "description": "testing CI, travis, etc",
   "main": "index.js",
   "scripts": {
