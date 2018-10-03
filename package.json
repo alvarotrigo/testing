@@ -1,0 +1,26 @@
+{
+  "name": "testing",
+  "version": "0.0.0-development",
+  "description": "testing CI, travis, etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alvarotrigo/testing.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvarotrigo/testing/issues"
+  },
+  "homepage": "https://github.com/alvarotrigo/testing#readme",
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "devDependencies": {
+    "semantic-release": "^15.9.16"
+  }
+}
