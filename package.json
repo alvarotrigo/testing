@@ -4,7 +4,8 @@
   "description": "testing CI, travis, etc",
   "main": "index.js",
   "scripts": {
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "travis-deploy-once": "travis-deploy-once"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,7 @@
     "access": "https://registry.npmjs.org"
   },
   "devDependencies": {
-    "semantic-release": "^15.9.16"
+    "semantic-release": "^15.9.16",
+    "travis-deploy-once": "^5.0.9"
   }
 }
