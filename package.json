@@ -4,7 +4,6 @@
   "description": "testing CI, travis, etc",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release"
   },
   "repository": {
