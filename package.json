@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/alvarotrigo/testing#readme",
   "publishConfig": {
-    "access": "restricted"
+    "access": "https://registry.npmjs.org"
   },
   "devDependencies": {
     "semantic-release": "^15.9.16"
